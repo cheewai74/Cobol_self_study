@@ -1,5 +1,4 @@
-https://www.ibmmainframer.com/cobol-tutorial/</BR>
-
+<https://www.ibmmainframer.com/cobol-tutorial/></BR>
 
 VSCODE:</BR>
 Open Command Palette (Ctrl+Shift+P) → Tasks: Configure Task.</BR>
@@ -37,12 +36,11 @@ Replace .vscode/tasks.json with:</BR>
 }
 ```
 
- cobc -x -o helloworld.exe h</BR>
+ cobc -x -o helloworld.exe helloworld.cbl</BR>
  .\helloworld.exe</BR>
 
- https://programming-idioms.org/cheatsheet/Cobol</BR>
-
  git</BR>
+
  ```
  git init
  git config --global --add safe.directory D:/git/cobol
@@ -51,3 +49,10 @@ Replace .vscode/tasks.json with:</BR>
  git branch -M main
  git push -u origin main
  ```
+
+ Tutorial</BR>
+<https://www.mainframestechhelp.com/tutorials/jcl></BR>
+<https://programming-idioms.org/cheatsheet/Cobol></BR>
+<https://www.go4as400.com/></BR>
+<https://as400i.com/></BR>
+<https://qwics.org/></BR>
