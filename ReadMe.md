@@ -40,8 +40,6 @@ Replace .vscode/tasks.json with:</BR>
  cobc -x -o helloworld.exe h</BR>
  .\helloworld.exe</BR>
 
- https://programming-idioms.org/cheatsheet/Cobol</BR>
-
  git</BR>
  ```
  git init
@@ -51,3 +49,7 @@ Replace .vscode/tasks.json with:</BR>
  git branch -M main
  git push -u origin main
  ```
+
+ Tutorial</BR>
+ https://www.mainframestechhelp.com/tutorials/jcl</BR>
+ https://programming-idioms.org/cheatsheet/Cobol</BR>
